@@ -187,8 +187,8 @@ tbody tr:nth-child(even) {
 }
 .card{
     color: #d6d6d6;
-    height: 290px;
-    width: 280px;
+    height: 250px;
+    width: 240px;
     background-color: #000124;
     border: 2px solid #800080;
     border-radius: 11px;
@@ -288,14 +288,15 @@ tbody tr:nth-child(even) {
     background: none;
     border-radius: 7px;
 }
-.img-eath{
+/* .img-earth{
     height: 100%;
-    width: 200%;
+    width: 100%;
+    display: none;
 }
 .platform{
-    display: flex;
-    gap: 20%;
-}
+    /* display: flex;
+    gap: 20%; */
+/* } */ 
 .platform-info{
     height: 80px;
     width: 90px;
